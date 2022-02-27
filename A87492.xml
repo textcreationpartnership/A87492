@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Most Reverend Fathers in God, William Lord Archbishop of Canterbury, Primate of all England and metropolitan, and John Lord Archbishop of York, Primate of England and metropolitan.</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87492</idno>
+            <idno type="STC">Wing J391A</idno>
+            <idno type="STC">ESTC R179603</idno>
+            <idno type="EEBO-CITATION">47683472</idno>
+            <idno type="OCLC">ocm 47683472</idno>
+            <idno type="VID">172929</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172929)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2656:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Most Reverend Fathers in God, William Lord Archbishop of Canterbury, Primate of all England and metropolitan, and John Lord Archbishop of York, Primate of England and metropolitan.</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by Joseph Ray, for Robert Thornton ...,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Without t.p.</note>
+                  <note>Initials.</note>
+                  <note>Caption title; imprint from colophon.</note>
+                  <note>Signatures: A-B⁴(-B₄)</note>
+                  <note>Royal arms on A₁ verso.</note>
+                  <note>Includes: Directions concerning preachers (p. 9-14), with caption title.</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Preaching --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:172929:1"/>
+            <!-- PDF PAGE 43 -->
+            <pb facs="tcp:172929:1"/>
+            <!-- PDF PAGE 43 -->
+            <p>
+               <figure>
+                  <q xml:lang="fre">HONI SOIT QVI MAL Y PENSE</q>
+                  <q xml:lang="fre">DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:172929:2"/>
+            <!-- PDF PAGE 44 -->
+            <p>IMPRIMATUR,</p>
+            <closer>
+               <dateline>
+                  <date>MARCH, 31, 1686.</date>
+               </dateline> 
+               <signed>MICHAEL JEPHSON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb n="3" facs="tcp:172929:2"/>
+            <!-- PDF PAGE 44 -->
+            <head>To the moſt Reverend Fathers in God, <hi>Willi<g ref="char:EOLhyphen"/>am</hi> Lord Archbishop of <hi>Canterbury,</hi> Primate of all <hi>England</hi> and Metropolitan, and <hi>John</hi> Lord Archbishop of <hi>York,</hi> Primate of <hi>England</hi> and Metropolitan.</head>
+            <opener>
+               <signed>JAMES <hi>R.</hi>
+               </signed>
+               <lb/>
+               <salute>
+                  <seg rend="decorInit">M</seg>OST Reverend Fathers in God, We Greet you well.</salute>
+            </opener>
+            <p>Whereas the bold abuſes &amp; extravagan<g ref="char:EOLhyphen"/>cies of Preach<g ref="char:EOLhyphen"/>ers in the Pul<g ref="char:EOLhyphen"/>pit, have not only by the experience of former Ages been found to tend to the Dishonour of God, the Scandal of Religion, and Diſturbance of the Peace both of Church and State but did alſo (through the Licentiouſneſs of the late Rebelli<g ref="char:EOLhyphen"/>ous times) much increaſe, to the Infla<g ref="char:EOLhyphen"/>ming
+<pb n="4" facs="tcp:172929:3"/>
+               <!-- PDF PAGE 45 -->Fomenting, and Heightening of the ſad Diſtempers and Confuſions that were then among us: And whereas even at this preſent (notwithſtanding the merciful Providence of God, ſo ſignally manifeſted in Reſtoring Our Royal Family, and the Lawful Go<g ref="char:EOLhyphen"/>vernment of theſe Realms, and put<g ref="char:EOLhyphen"/>ting an end to the great Rebellion, and notwithſtanding the Pious care and endeavours of Our late Dear Bro<g ref="char:EOLhyphen"/>ther, and Our Self ever ſince, to Go<g ref="char:EOLhyphen"/>vern Our Realms in Peace and Tran<g ref="char:EOLhyphen"/>quility) it may juſtly be feared that in ſundry parts of this Realm, there want not men of unquiet and Factious Spirits, who inſtead of Preach<g ref="char:EOLhyphen"/>ing the pure Word of God, and build<g ref="char:EOLhyphen"/>ing up the People in Faith and Holi<g ref="char:EOLhyphen"/>neſs, will (if they be not reſtrained) make it a great part of their Buſineſs to beget in the minds of their Hear<g ref="char:EOLhyphen"/>ers, an evil Opinion of their Gover<g ref="char:EOLhyphen"/>nours, by inſinuating Fears and Jealou<g ref="char:EOLhyphen"/>ſies,
+<pb n="5" facs="tcp:172929:3"/>
+               <!-- PDF PAGE 45 -->to diſpoſe them to Diſcontent, and to ſeaſon them with ſuch unſound and dangerous Principles as may lead them into Diſobedience, Schiſm, and Rebellion: And whereas alſo ſundry young Divines, and Preachers, either out of a Spirit of Contention and Con<g ref="char:EOLhyphen"/>tradiction, or in a vain oſtentation of their Learning, take upon them in their popular Sermons, to handle the deep Points of God's Eternal Councils and Decrees, or to meddle with the Affairs of State and Government, or to wrangle about Forms and Geſtures, and other fruitleſs Diſputes and Con<g ref="char:EOLhyphen"/>troverſies, ſerving rather to amuſe than profit the Hearers; which is done for the moſt part, and with the greateſt Confidence, by ſuch perſons as leaſt underſtand them: We out of Our Princely Care and Zeal for the Ho<g ref="char:EOLhyphen"/>nour of God, the Advancement of Piety, Peace, and true Religion, and for the preventing for the future, as
+<pb n="6" facs="tcp:172929:4"/>
+               <!-- PDF PAGE 46 -->much as lieth in Us, the many and great inconveniencies and miſchiefs that will unavoidably enſue, if a timely ſtop be not given to theſe and the like growing Abuſes; Do, according to the Examples of ſeveral of Our Predeceſ<g ref="char:EOLhyphen"/>ſors of Bleſſed Memory, by theſe Our ſpecial Letters ſtraitly Charge and Command you, to uſe your utmoſt Care and Diligence that theſe Directi<g ref="char:EOLhyphen"/>ons, which upon long and ſerious Con<g ref="char:EOLhyphen"/>ſideration, Our late Dear Brother thought good to give concerning Preachers,<note n="*" place="margin">
+                  <hi>Anno</hi> 1662.</note> and which we upon like Conſideration have Approved and cauſed to be Reprinted, and here with ſent unto you, be from henceforth duly and ſtrictly obſerved by all the Bishops and others concerned therein within your Provinces. And to this end Our Will and Pleaſure is, That you forth<g ref="char:EOLhyphen"/>with ſend them Copies of theſe Our Directions, to be by them ſpeedily Communicated to every Parſon, Vicar,
+<pb n="7" facs="tcp:172929:4"/>
+               <!-- PDF PAGE 46 -->Curate, Lecturer, and Preacher in eve<g ref="char:EOLhyphen"/>ry Cathedral, Collegiate, and Parish-Church within their ſeveral Dioceſſes: And that you earneſtly Require them to imploy their utmoſt endeavour for the due Obſervation of the ſame, whereof We shall expect a ſtrict Ac<g ref="char:EOLhyphen"/>count, both of you, and every one of them: And theſe our Letters shall be your ſufficient Warrant and Diſcharge in that behalf.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehal</hi> 
+                  <date>the Fifth day of March 1685. In the Second Year of Our Reign.</date>
+               </dateline>
+               <signed>By His Majeſties Command, <hi>S<g ref="char:V">Ʋ</g>NDERLAND</hi> P.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb facs="tcp:172929:5"/>
+            <!-- PDF PAGE 47 -->
+            <pb n="9" facs="tcp:172929:5"/>
+            <!-- PDF PAGE 47 -->
+            <head>DIRECTIONS Concerning PREACHERS.</head>
+            <p n="1">I. <seg rend="decorInit">T</seg>Hat no Preachers in their Sermons preſume to meddle with Mat<g ref="char:EOLhyphen"/>ters of State, to Mo<g ref="char:EOLhyphen"/>del new Governments, or take upon them to Declare, Limit, or Bound out the Power and Authority of So<g ref="char:EOLhyphen"/>vereign Princes, or to State and Determine the Differences between Princes and the People; But that upon all good Occaſions they faithfully Inſtruct
+<pb n="10" facs="tcp:172929:6"/>
+               <!-- PDF PAGE 48 -->the People in their Bounden Duty of Subjection and Obedience to their Governours, Superiour and Sub<g ref="char:EOLhyphen"/>ordinate of all ſorts, and to the Eſtablished Laws according to the Word of God, and the Doctrine of the Church of <hi>England,</hi> as it is contained in the Ho<g ref="char:EOLhyphen"/>milies of Obedience, and the Articles of Religion ſet forth by Publick Authority.</p>
+            <p n="2">II. That they be Admonished not to ſpend their Time, and Study in the Search of Abſtruſe and Speculative Noti<g ref="char:EOLhyphen"/>ons, eſpecially in and about the deep points of Election and Reprobation, together with the Incomprehenſible manner of the Concurrence of Gods free Grace, and Mans free Will, and ſuch other Controverſies as depend thereupon: But howſoever that they preſume not Poſi<g ref="char:EOLhyphen"/>tively, and Doctrinally to Determine any thing concerning the ſame.</p>
+            <p n="3">III. That they forbear in their Sermons ordinarily and cauſleſly to enter upon the Handling of any other Contro<g ref="char:EOLhyphen"/>verſies of leſs Moment and Difficulty: But whenſoever they are occaſioned vp Invitation from the Text they Preach upon, or that in regard of the Auditory they Preach unto, it may ſeem Requiſite or expedient ſo to do; That in ſuch caſes they do it with all Modeſty Gravity and Can<g ref="char:EOLhyphen"/>dour, Aſſerting the Doctrine and Diſcipline of the Church
+<pb n="11" facs="tcp:172929:6"/>
+               <!-- PDF PAGE 48 -->of <hi>England,</hi> from the Cavils and Objections of ſuch as are Adverſaries to either, without Bitterneſs, Flailing, Iear<g ref="char:EOLhyphen"/>ing, or other unneceſſary or unſeemly Provocation.</p>
+            <p n="4">IV. That for the more Edifying of the People in Faith and Godlineſs (the aforeſaid abuſes laid aſide) all Miniſters and Preachers in their ſeveral reſpective Cures shall not only diligently apply themſelves to Catechiſe the Younger fort according as in the Book of Common Prayer is ap<g ref="char:EOLhyphen"/>pointed; But alſo shall in their ordinary Sermons Inſiſt chiefly upon Catechetical Doctrines (wherein are contain<g ref="char:EOLhyphen"/>ed all the neceſſary and undoubted Verities of Chriſtian Religion) Declaring withal unto their Congregations what Influences ſuch Doctrines ought to have into their Lives and Converſations, and ſtirring them up Effectually, as well by their Examples, as their Doctrines, to the Pra<g ref="char:EOLhyphen"/>ctice of ſuch Religious and Moral Duties, as are the proper Reſults of the ſaid Doctrines, as Self-denial, Contempt of the World, Humility, Patience, Meekneſs, Temperance, Iuſtice, Mercy, Obedience, and the like; And to a Dete<g ref="char:EOLhyphen"/>ſtation and Shunning of Sin, eſpecially ſuch Sins as are ſo rife among us, and common to the Age we live in; ſuch are thoſe uſually Stiled the Seven Deadly ones, in short, all kind of Debauchery, Senſuality, Rebellion, Profaneſs, Ath<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſm, and the like. And becauſe the late Licentious Times have Corrupted Religion even in the very Roots and Foundations. That where there is an Afternoons
+<pb n="12" facs="tcp:172929:7"/>
+               <!-- PDF PAGE 49 -->Exerciſe, it be eſpecially Spent either in Explaining ſome part of the Church-Catechiſm, or in Preaching upon ſome ſuch Text of Scripture, as will Properly and Naturally lead to the Handling of ſome thing Contained in it, or may Conduce to the Expoſition of the Liturgy, and Prayers of the Church (as Occaſion shall be offered) the only cauſe They grew into Contempt amongſt the People being this, that they were not Vnderſtood, That alſo the Miniſter as often as Conveniently he can, Read the Prayers himſelf; and when he cannot ſo do, he Procure or Provide ſome fit Perſon in Holy Orders, who may do it with that Gravi<g ref="char:EOLhyphen"/>ty, Diſtinctneſs, Devotion, and Reverence as becomes ſo Holy an Action: And whenſoever by Reaſon, of his Infir<g ref="char:EOLhyphen"/>mity or the Concurrence of other Offices, the Time may ſeem too short, or he unable to Perform the Office of both Prayers and Sermon at length, he rather shorten, his Diſcourſe or Sermon, then Omit any thing of the Pray<g ref="char:EOLhyphen"/>ers, leſt he Incur the Penalty of the Act for Vniformity, Requiring them to be Read according as the Book Directs.</p>
+            <p n="5">V. And further Our Will and Pleaſure is, That all Mi<g ref="char:EOLhyphen"/>niſters within their ſeveral Cures, be enjoyed publickly to read over unto the People, ſuch Cannons as are or shall be in force, at leaſt once, and the Thirty nine Articles twice every year, to the end they may the better underſtand, and be more throughly acquainted with the Doctrine and Diſ<g ref="char:EOLhyphen"/>cipline of the Church of <hi>England,</hi> and not ſo eaſily drawn away from it as formerly they have been.</p>
+            <p n="6">
+               <pb n="13" facs="tcp:172929:7"/>
+               <!-- PDF PAGE 49 -->
+VI. Since Preaching was not Anciently the work of every Prieſt, but was reſtrained to the choiceſt Perſons for Gravity, Prudence and Learning; the Archbishoys and Bishops of this Kingdom are to take great care whom they Licence to Preach, and that all Grants and Licences of this kind heretofore made by any Chancellor, Offieial, Commiſſary, or other Secular Perſon (who are preſumed not to be ſo Competent Iudges in matters of this nature) be accounted Void and Null, unleſs the ſame shall likewiſe be allowed by the Archbishop or the Bishop of the Dio<g ref="char:EOLhyphen"/>ceſs, and that all Licences of Preachers hereafter to be made or granted by any Archbishop or Bishop, shall be only during Pleaſure, otherwiſe to be void to all intents and puryoſes as if the ſame had never been made nor granted.</p>
+            <p n="7">VII. Laſtly, That for the better obſerving of the Lords-Day too much neglected of late, they shall, as by often and ſe<g ref="char:EOLhyphen"/>rious Admonitions and sharp Reproofs, endeavour to draw off People from ſuch Idle, Debauched and Profane courſes as dishonour God, bring a Scandal on Religion, and Contempt on the Laws and Authority Eccleſiaſtical and Civil, ſo shall they very earneſtly perſwade them to frequent Divine Service on the Lords-Day, and other Feſtivals appointed by the Church to be kept Solemn; And in caſe any Perſon shall reſort unto any Taverns or Ale-houſes, or uſe any unlawful Sports &amp; Exerciſes on
+<pb n="14" facs="tcp:172929:8"/>
+               <!-- PDF PAGE 50 -->ſuch days, the Miniſter shall Exhort thoſe which are in Authority i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their ſeveral Parishes and Congregations, care<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ly to took after all ſuch Offenders in any kind whatſoever, together wich all thoſe that Abett, Receive, or Entertain them, that they may be Proceeded againſt ac<g ref="char:EOLhyphen"/>cording to the Laws, and quality of their Offences, that all ſuch Diſorders may for the time to come be prevented.</p>
+            <closer>
+               <signed>
+                  <hi>By His Majeſties Command. Sunderland</hi> P.</signed> 
+               <dateline>Given at Our Court at <hi>Whitehall</hi> 
+                  <date>the 5th. day of <hi>March,</hi> 1685. In the Second Year of Our Reign.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DUBLIN,</hi>
+               <lb/>
+Re-printed by <hi>Joſeph Ray,</hi> for <hi>Robert Thornton</hi> at the Leather-Bottle, in <hi>Skinner-row,</hi> 1686.</p>
+            <pb facs="tcp:172929:8"/>
+            <!-- PDF PAGE 50 -->
+         </div>
+      </back>
+   </text>
+</TEI>
